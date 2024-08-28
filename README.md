@@ -23,8 +23,8 @@ First challenge and the start of my FrontendMentor journey.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR Code Componenet - GitHub Repo](https://github.com/dealencardavid/qr-code-component_frontendmentor)
+- Live Site URL: [QR Code Componenet Live](https://dealencardavid.github.io/qr-code-component_frontendmentor/)
 
 ## My process
 
